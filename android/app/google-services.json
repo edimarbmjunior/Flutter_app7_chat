@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524816492379",
+    "firebase_url": "https://app7flutterchat.firebaseio.com",
+    "project_id": "app7flutterchat",
+    "storage_bucket": "app7flutterchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524816492379:android:fc48f4c40045ba0307dc7e",
+        "android_client_info": {
+          "package_name": "mirbar.com.br.app7chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524816492379-ktjpleva3rr1qs6lljlnatkdugrm16jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mirbar.com.br.app7chat",
+            "certificate_hash": "a71e8b6b174bad5a082d9eecef0913121edd137c"
+          }
+        },
+        {
+          "client_id": "524816492379-p7a6o5igkkptje53enlfpuq8nivcns5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7IMXnmsdMUWEAOCPZxY1sJj_nAujb9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524816492379-p7a6o5igkkptje53enlfpuq8nivcns5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
